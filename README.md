@@ -10,6 +10,8 @@
 </p>
 
 <h3 align="center">Build scalable API's faster | With PHP 8.0 and Laravel 9.0</h3>
+<h3 align="center"> With Added  Laravel Nova v4</h3>
+<h3 align="center"> With Added  Laravel Sanctum</h3>
 
 <p align="center">
 <a href="https://travis-ci.org/apiato/apiato"><img src="https://travis-ci.org/apiato/apiato.svg" alt="Build Status"></a>
